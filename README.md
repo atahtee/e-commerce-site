@@ -1,4 +1,4 @@
 An online e-commerce store for selling of clothes.
 
-###Live site
+Live site
 https://e-commerce-gamma-teal.vercel.app/
